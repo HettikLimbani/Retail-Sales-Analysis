@@ -1,8 +1,8 @@
 
 
-## 📊 Sales Data Analysis and Reporting for a Retail Chain  
+# 📊 Sales Data Analysis and Reporting for a Retail Chain  
 
-### 📌 Project Overview  
+## 📌 Project Overview  
 This project focuses on analyzing sales data from a retail chain using **Python, SQL, and Excel**. The goal is to extract meaningful insights from raw transaction data and generate reports to support business decision-making.  
 
 ---
@@ -14,7 +14,7 @@ This project focuses on analyzing sales data from a retail chain using **Python,
 
 ---
 
-### 📁 Dataset  
+## 📁 Dataset  
 The dataset used in this project is sourced from Kaggle:  [Retail Transaction Data](https://www.kaggle.com/regivm/retailtransactiondata)  
 You can also access the dataset from the respective 'datasets' folder.
 
