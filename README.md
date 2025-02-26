@@ -15,8 +15,7 @@ This project focuses on analyzing sales data from a retail chain using **Python,
 ---
 
 ### 📁 Dataset  
-The dataset used in this project is sourced from Kaggle:  
-[Retail Transaction Data](https://www.kaggle.com/regivm/retailtransactiondata)  
+The dataset used in this project is sourced from Kaggle:  [Retail Transaction Data](https://www.kaggle.com/regivm/retailtransactiondata)  
 You can also access the dataset from the respective 'datasets' folder.
 
 ---
