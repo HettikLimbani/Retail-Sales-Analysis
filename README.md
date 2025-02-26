@@ -5,19 +5,19 @@
 ### 📌 Project Overview  
 This project focuses on analyzing sales data from a retail chain using **Python, SQL, and Excel**. The goal is to extract meaningful insights from raw transaction data and generate reports to support business decision-making.  
 
+---
+
+## 🛠️ Technologies Used  
+- **Python** (`pandas`, `matplotlib`, `seaborn`)  
+- **SQL** (database schema design, data queries)  
+- **Excel** (dashboard reporting)  
+
+---
+
 ### 📁 Dataset  
 The dataset used in this project is sourced from Kaggle:  
 [Retail Transaction Data](https://www.kaggle.com/regivm/retailtransactiondata)  
 You can also access the dataset from the respective 'datasets' folder.
-
-#### Dataset Fields:  
-- **TransactionID**: Unique identifier for each transaction  
-- **TransactionTime**: Timestamp of the transaction  
-- **ItemCode**: Code of the purchased item  
-- **ItemDescription**: Description of the purchased item  
-- **NumberOfItemsPurchased**: Quantity of items purchased  
-- **CostPerItem**: Price of a single item  
-- **Country**: Location where the transaction occurred  
 
 ---
 
@@ -55,13 +55,6 @@ You can also access the dataset from the respective 'datasets' folder.
    - Line charts, bar graphs, heatmaps for sales insights  
 3. **Automated Reports** (using Python scripting):  
    - Generate scheduled reports for Excel dashboards  
-
----
-
-## 🛠️ Technologies Used  
-- **Python** (`pandas`, `matplotlib`, `seaborn`)  
-- **SQL** (database schema design, data queries)  
-- **Excel** (dashboard reporting)  
 
 ---
 
